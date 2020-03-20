@@ -1,0 +1,32 @@
+{
+  "720d006c-3a57-4b6a-b18f-9b713b073f3c": {
+    "title": "Harry Potter",
+    "rating": 7.6,
+    "director": "Chris Columbus",
+    "id": "720d006c-3a57-4b6a-b18f-9b713b073f3c"
+  },
+  "a8034f44-aee4-44cf-b32c-74cf452aaaae": {
+    "title": "The Matrix",
+    "rating": 8.7,
+    "director": "Wachowski Brothers",
+    "id": "a8034f44-aee4-44cf-b32c-74cf452aaaae"
+  },
+  "96798c08-d19b-4986-a05d-7da856efb697": {
+    "title": "3 Idiots",
+    "rating": 8.4,
+    "director": "Rajkumar Hirani",
+    "id": "96798c08-d19b-4986-a05d-7da856efb697"
+  },
+  "267eedb8-0f5d-42d5-8f43-72426b9fb3e6": {
+    "title": "Troy",
+    "rating": 7.2,
+    "director": "Peterson",
+    "id": "267eedb8-0f5d-42d5-8f43-72426b9fb3e6"
+  },
+  "39ab85e5-5e8e-4dc5-afea-65dc368bd7ab": {
+    "title": "Wanted",
+    "rating": 6.6,
+    "director": "Prabhu Deva",
+    "id": "39ab85e5-5e8e-4dc5-afea-65dc368bd7ab"
+  }
+}
