@@ -1,4 +1,4 @@
-flask==1.1.1
+flask==2.3.2
 flask-mail==0.9.1
 requests==2.23.0
 typing==3.7.4.1
